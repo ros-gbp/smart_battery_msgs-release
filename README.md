@@ -1,3 +1,24 @@
+## smart_battery_msgs (jade) - 0.1.0-0
+
+The packages in the `smart_battery_msgs` repository were released into the `jade` distro by running `/usr/bin/bloom-release smart_battery_msgs -t jade -r jade --new-track` on `Mon, 29 Jun 2015 10:20:55 -0000`
+
+The `smart_battery_msgs` package was released.
+
+Version of package(s) in repository `smart_battery_msgs`:
+- upstream repository: https://github.com/ros-drivers/smart_battery_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.8`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## smart_battery_msgs (hydro) - 0.1.0-0
 
 The packages in the `smart_battery_msgs` repository were released into the `hydro` distro by running `/usr/bin/bloom-release smart_battery_msgs -t hydro -r hydro --new-track` on `Wed, 29 Oct 2014 00:42:23 -0000`
